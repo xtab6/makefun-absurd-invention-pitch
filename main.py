@@ -1,7 +1,7 @@
 import os
 
 LINE = (
-    # The pitch: one sentence, 1-220 chars, absurd invention with a clever fix.
+    # The pitch: one sentence, 1-220 chars — an absurd invention with a clever fix.
     "A self-watering plant pot that, when neglected for a week, hires a lawyer, "
     "sues its owner for emotional abandonment, and wins custody of itself."
 )
@@ -20,5 +20,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # One sentence, no trailing newline: fully deterministic output.
+    # One sentence, no trailing newline — fully deterministic.
     main()
